@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SamRiXD
+- 👀 I’m interested in learning to code and making Apps.
+- 🌱 I’m currently learning C#,C/C++ and python.
