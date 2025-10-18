@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SamRiXD
 - 👀 I’m interested in making new projects and trying new things.
-- 🌱 I’m programming in C# or Python.
+- 🌱 I’m programming in C#, Java and Python.
